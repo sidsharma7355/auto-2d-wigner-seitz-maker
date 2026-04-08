@@ -24,15 +24,22 @@ Once you are familiar with these simple types, you may enter any other values by
 # Notes
 The tool accepts values for a1 and a2 as integers and floats, but not as fractions (for now). Likewise (for now), the tool only accepts angles for b in degrees (°). Please ensure you provide your a1 and a2 values as integers or decimals only, and your b value in degrees. 
 
-The tool automatically plots a 3x3 lattice generated as per the lattice parameters. The origin is defined (by default) at the point (1a1, 1a2).
+The tool automatically plots a 3x3 lattice generated as per the lattice parameters. The origin is defined (by default) at the point (1a1, 1a2), which cannot be changed (for now).
+
+It has come to my attention that this tool may struggle at 91°. This will be fixed in the coming update Mk. 1.1.
+
+This tool does not currently support body-centered rectangular lattices. This will be fixed as in Mk. 2.
 
 If saving the images generated through this method, please note that the size of the .png file will depend entirely on the size of the window containing the plot. Ensure you adjust the dimensions of your window as per your specific requirements. More image formats will be added in the coming iterations!
 
 # Coming in Mk. 2!
 Interactive sliders to change a1, a2, and b within the plot window. 
 
-Additional functionalities, such as Wigner-Seitz cell volume, distance and coordinates to vertex points, and lattice classifications.
+Full support for body-centered rectangular lattices. 
 
-3D version in development!
+Additional functionalities and customizations, such as Wigner-Seitz cell volume, distance and coordinates to vertex points, custom origin, custom line and lattice point colors, and lattice classifications.
 
-Auto-2D-Wigner-Seitz-maker, Mk. 1, by Siddharth Sharma. This work is licensed under a Creative Commons Attribution 4.0 (CC-BY 4.0) International License.
+# 
+Previous "version beta", in Desmos: https://www.desmos.com/calculator/ucl7cye4a8
+3D version currently under development.
+Copyright 2026, Auto-2D-Wigner-Seitz-maker, Mk. 1, by Siddharth Sharma. This work is licensed under a Creative Commons Attribution 4.0 (CC-BY 4.0) International License.
