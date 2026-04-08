@@ -42,4 +42,4 @@ Additional functionalities and customizations, such as Wigner-Seitz cell volume,
 # 
 3D version currently under development.
 
-Copyright 2026, Auto-2D-Wigner-Seitz-maker, Mk. 1, by Siddharth Sharma. This work is licensed under a Creative Commons Attribution 4.0 (CC-BY 4.0) International License.
+Copyright 2026, Auto-2D-Wigner-Seitz-maker, Mk. 1, by Siddharth Sharma. This work is licensed under the GNU General Public License v3.0
