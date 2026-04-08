@@ -28,7 +28,7 @@ The tool automatically plots a 3x3 lattice generated as per the lattice paramete
 
 It has come to my attention that this tool may struggle at 91°. This will be fixed in the coming update Mk. 1.1.
 
-This tool does not currently support body-centered rectangular lattices. This will be fixed as in Mk. 2.
+This tool does not currently support body-centered rectangular lattices. This will be fixed in Mk. 2.
 
 If saving the images generated through this method, please note that the size of the .png file will depend entirely on the size of the window containing the plot. Ensure you adjust the dimensions of your window as per your specific requirements. More image formats will be added in the coming iterations!
 
