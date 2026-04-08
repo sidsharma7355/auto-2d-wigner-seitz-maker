@@ -1,4 +1,4 @@
-# auto-2d-wigner-seitz-maker (mk1)
+# auto-2d-wigner-seitz-maker (Mk1)
 This simple script automatically calculates and plots the Wigner-Seitz cell for any two dimensional lattice, provided the angle and basis vectors which define the lattice are known. 
 Current ver.: Mk. 1.
 
@@ -26,18 +26,16 @@ The tool accepts values for a1 and a2 as integers and floats, but not as fractio
 
 The tool automatically plots a 3x3 lattice generated as per the lattice parameters. The origin is defined (by default) at the point (1a1, 1a2), which cannot be changed (for now).
 
-It has come to my attention that this tool may struggle at 91°. This will be fixed in the coming update Mk. 1.1.
-
-This tool does not currently support body-centered rectangular lattices. This will be fixed in Mk. 2.
+It has come to my attention that this tool may struggle at 91°. This will be fixed in the coming update Mk. 2.
 
 If saving the images generated through this method, please note that the size of the .png file will depend entirely on the size of the window containing the plot. Ensure you adjust the dimensions of your window as per your specific requirements. More image formats will be added in the coming iterations!
 
 # Coming in Mk. 2!
-Interactive sliders to change a1, a2, and b within the plot window. 
+Interactive sliders to change a1, a2, and b within the plot window.
 
-Full support for body-centered rectangular lattices. 
+Fraction and square root support via the parser system, alongside an optimized an comparator function to rectify edge cases. 
 
-Additional functionalities and customizations, such as Wigner-Seitz cell volume, distance and coordinates to vertex points, custom origin, custom line and lattice point colors, and lattice classifications.
+Additional functionalities and customizations, such as Wigner-Seitz cell volume, shading, distance and coordinates to vertex points, custom line and lattice point colors, and lattice classifications.
 
 # 
 3D version currently under development.
