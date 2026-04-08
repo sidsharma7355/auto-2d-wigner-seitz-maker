@@ -40,6 +40,6 @@ Full support for body-centered rectangular lattices.
 Additional functionalities and customizations, such as Wigner-Seitz cell volume, distance and coordinates to vertex points, custom origin, custom line and lattice point colors, and lattice classifications.
 
 # 
-Previous "version beta", in Desmos: https://www.desmos.com/calculator/ucl7cye4a8
 3D version currently under development.
+
 Copyright 2026, Auto-2D-Wigner-Seitz-maker, Mk. 1, by Siddharth Sharma. This work is licensed under a Creative Commons Attribution 4.0 (CC-BY 4.0) International License.
